@@ -2,7 +2,8 @@
     "name": "ptphp/rephp",
     "type": "library",
     "description": "a react and php framework.",
-    "keywords": ["ptphp", "react", "framework","rephp"],
+    "keywords": ["ptphp", "react", "framework","rephp","phpreact"],
+    "minimum-stability": "RC",
     "homepage": "http://www.ptphp.com",
     "license": "MIT",
     "authors": [{
