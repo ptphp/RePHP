@@ -1,0 +1,32 @@
+{
+    "name": "ptphp/rephp",
+    "type": "library",
+    "minimum-stability": "master",
+    "description": "a react and php framework.",
+    "keywords": ["ptphp", "react", "framework"],
+    "homepage": "http://www.ptphp.com",
+    "license": "MIT",
+    "authors": [{
+        "name": "Dhole",
+        "email": "ptphp@qq.com",
+        "homepage": "http://www.ptphp.com",
+        "role": "Lead Developer"
+    }],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^3.7|^4.0|^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rephp\\": "src/Rephp"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\Rephp\\": "tests/Rephp"
+        }
+    },
+    "bin": ["bin/rephp"]
+}
