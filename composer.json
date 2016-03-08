@@ -3,7 +3,7 @@
     "type": "library",
     "minimum-stability": "dev",
     "description": "a react and php framework.",
-    "keywords": ["ptphp", "react", "framework"],
+    "keywords": ["ptphp", "react", "framework","rephp"],
     "homepage": "http://www.ptphp.com",
     "license": "MIT",
     "authors": [{
