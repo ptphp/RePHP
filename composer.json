@@ -1,7 +1,7 @@
 {
     "name": "ptphp/rephp",
     "type": "library",
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "description": "a react and php framework.",
     "keywords": ["ptphp", "react", "framework"],
     "homepage": "http://www.ptphp.com",
